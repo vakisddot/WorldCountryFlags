@@ -1,4 +1,4 @@
-![icon](iconSteam.png)
+![icon](icon.png)
 
 # World Country Flags (Terraria)
 
