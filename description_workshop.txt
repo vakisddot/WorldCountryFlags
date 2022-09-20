@@ -1,0 +1,65 @@
+Add your country's flag to your Terraria world using World Country Flags!
+Adds 88 new placeable flags, most of which are craftable with 10 silk at a new crafting station - the Globe (crafted at a Sawmill using 12 wood and 4 iron/lead bars).
+Also adds 3 historical flags that are craftable with 10 silk and 1 gem.
+
+
+[h1]Currently Available[/h1]
+[b]Americas:[/b] United States (+Puerto Rico), Canada, Mexico, Venezuela, The Dominican Republic, Chile, Argentina, Brazil, Peru, Jamaica, Colombia, Ecuador, Cuba, Uruguay
+
+[b]Europe:[/b] United Kingdom (+England, Scotland, N.Ireland, Isle of Man), Poland, Russia, Germany, France, Ukraine, Belgium, Romania, Sweden, Bulgaria, Denmark, Finland, Italy, Hungary, Austria, Estonia, Lithuania, Latvia, Ireland, Luxembourg, The Netherlands, Greece, Moldova, Switzerland, Spain, Portugal, Croatia, Czechia, Albania, Slovakia, Slovenia, Norway, Iceland, Liechtenstein, Armenia, Belarus, Bosnia & Herzegovina, Georgia, Malta, Cyrpus, Serbia
+
+[b]Asia:[/b] China, Turkey, Indonesia, India, Japan, South Korea, Vietnam, Kazakhstan, Israel, The Philippines, Thailand, Bangladesh, Saudi Arabia, United Arab Emirates, North Korea, Iraq, Taiwan, Yemen
+
+[b]Oceania:[/b] Australia, New Zealand, Palau
+
+[b]Africa:[/b] South Africa, Egypt
+
+[b]Historical:[/b] The Soviet Union, The Holy Roman Empire, The German Empire
+
+
+[h1]Changelog[/h1]
+v1.1.3
+- Mod is now open-source
+- Custom NPC dialogue removed due to causing issues in multiplayer
+
+v1.1.2
+- Temporarily disabled custom NPC dialogue due to multiplayer crashes
+
+v1.1.1
+- Fixed a slight oversight
+
+v1.1
+- Added the flags of Isle of Man, Malta, Cyprus, Egypt, Montenegro, Iraq, Taiwan, Uruguay, Yemen, Serbia
+- Puerto Rico flag is now craftable from the USA flag
+- Some NPCs will now say different lines of dialogue when certain flags are placed in the world (flags must be placed after this update) (can be disabled in the mod config) (thanks to Forgeh for coming up with some of the lines)
+- Historical flags are now craftable with 1 gem and 10 silk at a normal globe instead of the historical globe
+- Historical globe removed
+
+v1.0 (Thanks for 1000+ subscribers! Hope you're enjoying the mod)
+- Added the flags of England, Scotland, Wales, N. Ireland (can be crafted with a UK flag)
+- Added the flags of Jamaica, Colombia, Belarus, Ecuador, Puerto Rico, Saudi Arabia, Cuba, Bosnia, United Arab Emirates, Georgia, North Korea
+- Added the historical flags of The Soviet Union, The Holy Roman Empire, The German Empire
+- Added the historical globe. Used to craft historical flags. Is made from a regular globe and 3 shadow scale/tissue samples at a demon altar
+- Flags now only require 1 block of ground to be placed on
+
+v0.6
+- Added the flags of Liechtenstein, Vietnam, South Africa, Kazakhstan, Israel, The Philippines, Palau, Thailand, Armenia, Bangladesh
+
+v0.5.1
+- Flags will now wave faster or slower depending on the wind
+
+v0.5
+- Added the flags of Croatia, Czechia, Albania, Slovakia, Slovenia, Peru, Norway, Iceland, South Korea, Mexico
+
+v0.4
+- Added the flags of Chile, Brazil, Spain, Portugal, Argentina
+
+v0.3
+- Added the flags of India, Japan, Moldova, Switzerland, The Dominican Republic
+
+v0.2
+- Added the flags of Estonia, Lithuania, Latvia, Indonesia, New Zealand, Venezuela, Ireland, Luxembourg, The Netherlands, Greece
+
+
+[h1]Upcoming flags[/h1]
+Costa Rica, Azerbaijan, Quebec, Singapore, Bhutan, Paraguay, Bahrain, Nicaragua, Honduras, Oman, N.Macedonia, Andorra, Monaco, European Union, Vatican City, San Marino, Ethiopa, Algeria, Pakistan, Nigeria, Libya, Syria, Iran, Greenland, Tunisia, Austria-Hungary
